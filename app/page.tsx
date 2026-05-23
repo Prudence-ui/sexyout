@@ -241,6 +241,7 @@ shadow-lg
 
 <video
 src={video.source}
+poster={video.image}
 className="w-full h-full object-cover"
 muted
 preload="metadata"
