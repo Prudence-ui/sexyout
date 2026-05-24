@@ -119,7 +119,7 @@ gap-4
 key={item.id}
 href={`/video/${item.id}`}
 className="
-bg-[#1a1a1a]
+bg-[#1a1a1a]    
 rounded
 overflow-hidden
 hover:scale-105
@@ -129,11 +129,10 @@ transition
 
 <div className="relative h-[120px]">
 
-<video
-src={item.source}
+<img
+src={item.image}
+alt={item.titre}
 className="w-full h-full object-cover"
-muted
-preload="metadata"
 />
 
 <div className="absolute bottom-2 right-2 bg-black/80 px-2 py-1 text-xs rounded">

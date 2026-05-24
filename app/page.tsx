@@ -5,11 +5,11 @@ import { videos } from "../data/videos";
 
 const categories = [
   "Toutes",
-  "Sport",
-  "Musique",
-  "Gaming",
-  "Films",
-  "Tech"
+  "Ebony",
+  "Nude",
+  "Car",
+  "Sextape",
+  "Black"
 ];
 
 export default function Home() {
