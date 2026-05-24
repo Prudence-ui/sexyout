@@ -56,6 +56,16 @@ SexyOut
 
 <div className="max-w-7xl mx-auto p-5">
 
+
+<div className="mb-6 rounded-xl bg-[#1a1a1a] h-[100px] md:h-[120px] flex items-center justify-center border border-gray-700">
+
+<p className="text-pink-500 font-bold">
+📢 Bannière publicitaire
+</p>
+
+</div>
+
+
 <h1 className="text-2xl md:text-4xl font-bold mb-4">
 
 {video.titre}
@@ -99,6 +109,15 @@ Votre navigateur ne supporte pas cette vidéo
 
 </div>
 
+<div className="my-8 rounded-xl bg-[#1a1a1a] h-[100px] flex items-center justify-center border border-gray-700">
+
+<p className="text-pink-500 font-bold">
+📢 Publicité
+</p>
+
+</div>
+
+
 <h2 className="text-2xl font-bold mt-10 mb-5">
 
 Vidéos similaires
@@ -113,17 +132,31 @@ lg:grid-cols-6
 gap-4
 ">
 
-{similarVideos.map(item => (
+{similarVideos.map((item,index) => (
+
+<div key={item.id}>
+
+{index===3 && (
+
+<div className="col-span-2 md:col-span-3 lg:col-span-6 rounded-xl bg-[#1a1a1a] p-6 text-center border border-gray-700">
+
+<p className="text-pink-500 font-bold">
+📢 Publicité sponsorisée
+</p>
+
+</div>
+
+)}
 
 <Link
-key={item.id}
 href={`/video/${item.id}`}
 className="
-bg-[#1a1a1a]    
+bg-[#1a1a1a]
 rounded
 overflow-hidden
 hover:scale-105
 transition
+block
 "
 >
 
@@ -151,10 +184,11 @@ className="w-full h-full object-cover"
 
 </h3>
 
-
 </div>
 
 </Link>
+
+</div>
 
 ))}
 
