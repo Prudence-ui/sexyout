@@ -239,12 +239,10 @@ shadow-lg
 
 <div className="relative h-[220px] sm:h-[180px] overflow-hidden">
 
-<video
-src={video.source}
-poster={video.image}
+<img
+src={video.image}
+alt={video.titre}
 className="w-full h-full object-cover"
-muted
-preload="metadata"
 />
 
 <div className="absolute bottom-2 right-2 bg-black/80 px-2 py-1 text-xs rounded">
