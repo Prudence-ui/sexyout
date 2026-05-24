@@ -48,7 +48,7 @@ return (
 
 <h1 className="text-3xl font-bold">
 
-MonSiteVideo
+SexyOut
 
 </h1>
 
@@ -82,9 +82,6 @@ Votre navigateur ne supporte pas cette vidéo
 
 <div className="mt-4">
 
-<p className="text-gray-400">
-👁️ {video.vues || "0"} vues
-</p>
 
 <p className="text-pink-500">
 🏷️ {video.categorie}
@@ -155,11 +152,6 @@ preload="metadata"
 
 </h3>
 
-<p className="text-gray-400 text-xs mt-1">
-
-👁️ {item.vues || "0"}
-
-</p>
 
 </div>
 

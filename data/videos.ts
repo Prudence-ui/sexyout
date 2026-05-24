@@ -11,11 +11,9 @@ export const videos = [
 
 {
 id:1,
-titre:"Football Highlights",
-categorie:"Sport",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"15000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video43.jpg`,
 source:`${VIDEO_BASE_URL}video43.mp4`
@@ -23,11 +21,9 @@ source:`${VIDEO_BASE_URL}video43.mp4`
 
 {
 id:2,
-titre:"NBA Top Plays",
-categorie:"Sport",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"12000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video44.jpg`,
 source:`${VIDEO_BASE_URL}video44.mp4`
@@ -35,11 +31,9 @@ source:`${VIDEO_BASE_URL}video44.mp4`
 
 {
 id:3,
-titre:"Music Mix",
-categorie:"Musique",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"9500",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video45.jpg`,
 source:`${VIDEO_BASE_URL}video45.mp4`
@@ -47,11 +41,9 @@ source:`${VIDEO_BASE_URL}video45.mp4`
 
 {
 id:4,
-titre:"Pop Hits",
-categorie:"Musique",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"8700",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video46.jpg`,
 source:`${VIDEO_BASE_URL}video46.mp4`
@@ -59,11 +51,9 @@ source:`${VIDEO_BASE_URL}video46.mp4`
 
 {
 id:5,
-titre:"Gaming Stream",
-categorie:"Gaming",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"24000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video47.jpg`,
 source:`${VIDEO_BASE_URL}video47.mp4`
@@ -71,11 +61,9 @@ source:`${VIDEO_BASE_URL}video47.mp4`
 
 {
 id:6,
-titre:"Minecraft Build",
-categorie:"Gaming",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"31000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video48.jpg`,
 source:`${VIDEO_BASE_URL}video48.mp4`
@@ -83,11 +71,9 @@ source:`${VIDEO_BASE_URL}video48.mp4`
 
 {
 id:7,
-titre:"Movie Trailer",
-categorie:"Films",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"7000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video49.jpg`,
 source:`${VIDEO_BASE_URL}video49.mp4`
@@ -95,11 +81,9 @@ source:`${VIDEO_BASE_URL}video49.mp4`
 
 {
 id:8,
-titre:"iPhone Review",
-categorie:"Tech",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"15000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video50.jpg`,
 source:`${VIDEO_BASE_URL}video50.mp4`
@@ -107,11 +91,9 @@ source:`${VIDEO_BASE_URL}video50.mp4`
 
 {
 id:9,
-titre:"Android Test",
-categorie:"Tech",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"14000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video51.jpg`,
 source:`${VIDEO_BASE_URL}video51.mp4`
@@ -119,11 +101,9 @@ source:`${VIDEO_BASE_URL}video51.mp4`
 
 {
 id:10,
-titre:"Movie Scene",
-categorie:"Films",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"8000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video52.jpg`,
 source:`${VIDEO_BASE_URL}video52.mp4`
@@ -131,11 +111,9 @@ source:`${VIDEO_BASE_URL}video52.mp4`
 
 {
 id:11,
-titre:"Tech News",
-categorie:"Tech",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"6000",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video53.jpg`,
 source:`${VIDEO_BASE_URL}video53.mp4`
@@ -143,11 +121,10 @@ source:`${VIDEO_BASE_URL}video53.mp4`
 
 {
 id:12,
-titre:"Gaming Highlights",
-categorie:"Gaming",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"21000",
-duree:"0:50",
+duree:"0:0",
 type:"local",
 image:`${IMAGE_BASE_URL}video54.jpg`,
 source:`${VIDEO_BASE_URL}video54.mp4`
@@ -155,11 +132,9 @@ source:`${VIDEO_BASE_URL}video54.mp4`
 
 {
 id:13,
-titre:"Football Compilation",
-categorie:"Sport",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video1.jpg`,
 source:`${VIDEO_BASE_URL}video1.mp4`
@@ -167,11 +142,9 @@ source:`${VIDEO_BASE_URL}video1.mp4`
 
 {
 id:14,
-titre:"Football Compilation",
-categorie:"Sport",
+titre:"Leaked",
+categorie:"Ebony",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video2.jpg`,
 source:`${VIDEO_BASE_URL}video2.mp4`
@@ -182,8 +155,6 @@ id:15,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video3.jpg`,
 source:`${VIDEO_BASE_URL}video3.mp4`
@@ -194,8 +165,6 @@ id:17,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video4.jpg`,
 source:`${VIDEO_BASE_URL}video4.mp4`
@@ -207,8 +176,6 @@ id:18,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video5.jpg`,
 source:`${VIDEO_BASE_URL}video5.mp4`
@@ -220,8 +187,6 @@ id:19,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video6.jpg`,
 source:`${VIDEO_BASE_URL}video6.mp4`
@@ -233,8 +198,6 @@ id:20,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video7.jpg`,
 source:`${VIDEO_BASE_URL}video7.mp4`
@@ -246,8 +209,6 @@ id:21,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video8.jpg`,
 source:`${VIDEO_BASE_URL}video8.mp4`
@@ -258,8 +219,6 @@ id:22,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video9.jpg`,
 source:`${VIDEO_BASE_URL}video9.mp4`
@@ -271,8 +230,6 @@ id:23,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video10.jpg`,
 source:`${VIDEO_BASE_URL}video10.mp4`
@@ -284,8 +241,6 @@ id:24,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video11.jpg`,
 source:`${VIDEO_BASE_URL}video11.mp4`
@@ -297,8 +252,6 @@ id:25,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video12.jpg`,
 source:`${VIDEO_BASE_URL}video12.mp4`
@@ -310,8 +263,6 @@ id:26,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video13.jpg`,
 source:`${VIDEO_BASE_URL}video13.mp4`
@@ -323,8 +274,6 @@ id:27,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video14.jpg`,
 source:`${VIDEO_BASE_URL}video14.mp4`
@@ -336,8 +285,6 @@ id:28,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video15.jpg`,
 source:`${VIDEO_BASE_URL}video15.mp4`
@@ -349,8 +296,6 @@ id:30,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video16.jpg`,
 source:`${VIDEO_BASE_URL}video16.mp4`
@@ -362,8 +307,6 @@ id:31,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video17.jpg`,
 source:`${VIDEO_BASE_URL}video17.mp4`
@@ -375,8 +318,6 @@ id:32,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video18.jpg`,
 source:`${VIDEO_BASE_URL}video18.mp4`
@@ -388,8 +329,6 @@ id:33,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video19.jpg`,
 source:`${VIDEO_BASE_URL}video19.mp4`
@@ -401,8 +340,6 @@ id:34,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video20.jpg`,
 source:`${VIDEO_BASE_URL}video20.mp4`
@@ -414,8 +351,6 @@ id:35,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video21.jpg`,
 source:`${VIDEO_BASE_URL}video21.mp4`
@@ -427,8 +362,6 @@ id:36,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video22.jpg`,
 source:`${VIDEO_BASE_URL}video22.mp4`
@@ -440,8 +373,6 @@ id:37,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video23.jpg`,
 source:`${VIDEO_BASE_URL}video23.mp4`
@@ -453,8 +384,6 @@ id:38,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video24.jpg`,
 source:`${VIDEO_BASE_URL}video24.mp4`
@@ -466,8 +395,6 @@ id:39,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video25.jpg`,
 source:`${VIDEO_BASE_URL}video25.mp4`
@@ -479,8 +406,6 @@ id:40,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video26.jpg`,
 source:`${VIDEO_BASE_URL}video26.mp4`
@@ -492,8 +417,6 @@ id:41,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video27.jpg`,
 source:`${VIDEO_BASE_URL}video27.mp4`
@@ -505,8 +428,6 @@ id:42,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video28.jpg`,
 source:`${VIDEO_BASE_URL}video28.mp4`
@@ -518,8 +439,6 @@ id:43,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video29.jpg`,
 source:`${VIDEO_BASE_URL}video29.mp4`
@@ -531,8 +450,6 @@ id:44,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video30.jpg`,
 source:`${VIDEO_BASE_URL}video30.mp4`
@@ -544,8 +461,6 @@ id:45,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video31.jpg`,
 source:`${VIDEO_BASE_URL}video31.mp4`
@@ -557,8 +472,6 @@ id:46,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video32.jpg`,
 source:`${VIDEO_BASE_URL}video32.mp4`
@@ -570,8 +483,6 @@ id:47,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video33.jpg`,
 source:`${VIDEO_BASE_URL}video33.mp4`
@@ -583,8 +494,6 @@ id:48,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video34.jpg`,
 source:`${VIDEO_BASE_URL}video34.mp4`
@@ -596,8 +505,6 @@ id:49,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video35.jpg`,
 source:`${VIDEO_BASE_URL}video35.mp4`
@@ -609,8 +516,6 @@ id:50,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video36.jpg`,
 source:`${VIDEO_BASE_URL}video36.mp4`
@@ -622,8 +527,6 @@ id:51,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video37.jpg`,
 source:`${VIDEO_BASE_URL}video37.mp4`
@@ -635,8 +538,6 @@ id:52,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video38.jpg`,
 source:`${VIDEO_BASE_URL}video38.mp4`
@@ -648,8 +549,6 @@ id:53,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video39.jpg`,
 source:`${VIDEO_BASE_URL}video39.mp4`
@@ -661,8 +560,6 @@ id:54,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video40.jpg`,
 source:`${VIDEO_BASE_URL}video40.mp4`
@@ -674,8 +571,6 @@ id:55,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video41.jpg`,
 source:`${VIDEO_BASE_URL}video41.mp4`
@@ -687,8 +582,6 @@ id:56,
 titre:"Football Compilation",
 categorie:"Sport",
 
-vues:"72.645",
-duree:"0:6",
 type:"local",
 image:`${IMAGE_BASE_URL}video42.jpg`,
 source:`${VIDEO_BASE_URL}video42.mp4`

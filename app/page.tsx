@@ -61,7 +61,7 @@ return(
 <div className="flex justify-between items-center">
 
 <h1 className="text-2xl md:text-4xl font-bold">
-MonSiteVideo
+SexyOut
 </h1>
 
 <button
@@ -263,9 +263,6 @@ HD
 {video.titre}
 </h2>
 
-<p className="text-gray-400 text-xs md:text-sm mt-2">
-👁️ {video.vues} vues
-</p>
 
 <p className="text-pink-500 text-sm">
 🏷️ {video.categorie}
@@ -323,7 +320,7 @@ Next
 <div className="text-center">
 
 <h2 className="text-xl font-bold mb-4">
-MonSiteVideo
+SexyOut
 </h2>
 
 <ul className="space-y-2 text-pink-500">
@@ -356,7 +353,7 @@ Conditions
 
 <p className="mt-6 text-gray-400 text-sm">
 
-© 2025 MonSiteVideo — Tous droits réservés
+© 2025 SexyOut — Tous droits réservés
 
 </p>
 

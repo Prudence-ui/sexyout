@@ -2,27 +2,27 @@ import "./globals.css";
 
 export const metadata = {
 
-metadataBase:new URL("https://monsitevideo.com"),
+metadataBase:new URL("https://sexyout.com"),
 
-title:"MonSiteVideo - Vidéos sport, gaming et divertissement",
+title:"SexyOut - Vidéos sex, porno et desire sexuelle",
 
 description:
-"Regardez des vidéos sport, gaming, musique, films et plus encore.",
+"Regardez des vidéos porno, sextape, nude, baise et plus encore.",
 
 keywords:[
-"vidéos",
-"sport",
-"gaming",
-"musique",
-"films"
+"Nude",
+"Car",
+"Sextape",
+"Ebony",
+"Black"
 ],
 
 openGraph:{
 
-title:"MonSiteVideo",
+title:"SexyOut",
 
 description:
-"Regardez des vidéos sport et divertissement",
+"Regardez des vidéos pornographique et sextape",
 
 images:[
 {
