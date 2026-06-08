@@ -6,6 +6,7 @@ import ExoBanner from "../../components/ExoBanner";
 import { videos } from "../../../data/videos";
 import { useParams } from "next/navigation";
 import Link from "next/link";
+import Script from "next/script";
 
 export default function VideoPage() {
 
@@ -70,6 +71,29 @@ SexyOut
 {video.titre}
 
 </h1>
+
+<div className="my-6 flex justify-center">
+
+  <ins
+    className="eas6a97888e37"
+    data-zoneid="5945518"
+  ></ins>
+
+</div>
+
+<Script
+  async
+  src="https://a.magsrv.com/ad-provider.js"
+  strategy="afterInteractive"
+/>
+
+<Script id="outstream-video">
+
+{`
+(AdProvider = window.AdProvider || []).push({"serve": {}});
+`}
+
+</Script>
 
 <div className="aspect-video bg-black rounded overflow-hidden">
 
