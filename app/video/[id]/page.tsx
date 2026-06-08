@@ -1,5 +1,6 @@
 "use client";
 
+import ExoBannerBottom from "@/app/components/ExoBannerBottom";
 import ExoBanner from "../../components/ExoBanner";
 import { videos } from "../../../data/videos";
 import { useParams } from "next/navigation";
@@ -96,13 +97,9 @@ Votre navigateur ne supporte pas cette vidéo
 
 </div>
 
-<div className="mt-6 rounded-xl bg-[#1a1a1a] p-6 text-center border border-gray-700">
+<div className="mt-8 mb-8 flex justify-center">
 
-<p className="text-pink-500 font-bold">
-
-📢 Publicité sous lecteur vidéo
-
-</p>
+  <ExoBannerBottom />
 
 </div>
 
