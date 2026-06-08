@@ -9,7 +9,7 @@ const categories = [
   "Nude",
   "Car",
   "Sextape",
-  "Black"
+  "Black" 
 ];
 
 export default function Home() {
