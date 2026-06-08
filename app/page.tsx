@@ -1,4 +1,6 @@
 "use client";
+
+import ExoNativeWidget from "./components/ExoNativeWidget";
 import ExoBanner from "./components/ExoBanner";
 import { useState } from "react";
 import { videos } from "../data/videos";
@@ -271,6 +273,8 @@ HD
 ))}
 
 </section>
+
+<ExoNativeWidget />
 
 <div className="flex justify-center flex-wrap gap-3 p-6">
 

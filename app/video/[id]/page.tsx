@@ -1,5 +1,6 @@
 "use client";
 
+import ExoNativeWidget from "@/app/components/ExoNativeWidget";
 import ExoBannerBottom from "@/app/components/ExoBannerBottom";
 import ExoBanner from "../../components/ExoBanner";
 import { videos } from "../../../data/videos";
@@ -110,6 +111,9 @@ Votre navigateur ne supporte pas cette vidéo
 </p>
 
 </div>
+
+
+<ExoNativeWidget />
 
 
 <h2 className="text-2xl font-bold mt-10 mb-5">
