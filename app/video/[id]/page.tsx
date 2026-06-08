@@ -1,5 +1,6 @@
 "use client";
 
+import ExoBanner from "../../components/ExoBanner";
 import { videos } from "../../../data/videos";
 import { useParams } from "next/navigation";
 import Link from "next/link";
@@ -59,9 +60,7 @@ SexyOut
 
 <div className="mb-6 rounded-xl bg-[#1a1a1a] h-[100px] md:h-[120px] flex items-center justify-center border border-gray-700">
 
-<p className="text-pink-500 font-bold">
-📢 Bannière publicitaire
-</p>
+<ExoBanner />
 
 </div>
 

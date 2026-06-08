@@ -1,5 +1,5 @@
 "use client";
-
+import ExoBanner from "./components/ExoBanner";
 import { useState } from "react";
 import { videos } from "../data/videos";
 
@@ -190,9 +190,7 @@ selectedCategory===cat
 
 <div className="m-4 rounded-xl bg-[#1a1a1a] h-[100px] md:h-[120px] flex items-center justify-center border border-gray-700">
 
-<p className="text-pink-500 text-lg font-bold">
-📢 Bannière publicitaire
-</p>
+<ExoBanner />
 
 </div>
 
