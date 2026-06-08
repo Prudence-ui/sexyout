@@ -188,10 +188,8 @@ selectedCategory===cat
 
 </div>
 
-<div className="m-4 rounded-xl bg-[#1a1a1a] h-[100px] md:h-[120px] flex items-center justify-center border border-gray-700">
-
-<ExoBanner />
-
+<div className="mb-12 mt-4 flex justify-center">
+  <ExoBanner />
 </div>
 
 <section

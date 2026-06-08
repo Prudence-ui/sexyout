@@ -58,10 +58,8 @@ SexyOut
 <div className="max-w-7xl mx-auto p-5">
 
 
-<div className="mb-6 rounded-xl bg-[#1a1a1a] h-[100px] md:h-[120px] flex items-center justify-center border border-gray-700">
-
-<ExoBanner />
-
+<div className="mb-12 mt-4 flex justify-center">
+  <ExoBanner />
 </div>
 
 
