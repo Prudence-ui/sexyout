@@ -1,12 +1,12 @@
 "use client";
 
+import ExoVideoSlider from "@/app/components/ExoVideoSlider";
 import ExoNativeWidget from "@/app/components/ExoNativeWidget";
 import ExoBannerBottom from "@/app/components/ExoBannerBottom";
 import ExoBanner from "../../components/ExoBanner";
 import { videos } from "../../../data/videos";
 import { useParams } from "next/navigation";
 import Link from "next/link";
-import Script from "next/script";
 
 export default function VideoPage() {
 
@@ -72,28 +72,7 @@ SexyOut
 
 </h1>
 
-<div className="my-6 flex justify-center">
 
-  <ins
-    className="eas6a97888e37"
-    data-zoneid="5945518"
-  ></ins>
-
-</div>
-
-<Script
-  async
-  src="https://a.magsrv.com/ad-provider.js"
-  strategy="afterInteractive"
-/>
-
-<Script id="outstream-video">
-
-{`
-(AdProvider = window.AdProvider || []).push({"serve": {}});
-`}
-
-</Script>
 
 <div className="aspect-video bg-black rounded overflow-hidden">
 
@@ -113,6 +92,10 @@ Votre navigateur ne supporte pas cette vidéo
 
 </div>
 
+<div className="mt-6">
+  <ExoVideoSlider />
+</div>
+
 <div className="mt-4">
 
 
@@ -128,13 +111,7 @@ Votre navigateur ne supporte pas cette vidéo
 
 </div>
 
-<div className="my-8 rounded-xl bg-[#1a1a1a] h-[100px] flex items-center justify-center border border-gray-700">
 
-<p className="text-pink-500 font-bold">
-📢 Publicité
-</p>
-
-</div>
 
 
 <ExoNativeWidget />

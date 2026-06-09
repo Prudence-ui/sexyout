@@ -207,15 +207,6 @@ p-4
 "
 >
 
-<div className="my-6 rounded-xl bg-[#1a1a1a] p-6 text-center border border-gray-700">
-
-<p className="text-pink-500 font-bold">
-
-📢 Zone publicité entre vidéos
-
-</p>
-
-</div>
 
 {currentVideos.map((video)=>(
 
