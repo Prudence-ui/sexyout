@@ -340,6 +340,18 @@ Conditions
 </a>
 </li>
 
+<li>
+<a href="/2257">
+2257 Compliance
+</a>
+</li>
+
+<li>
+<a href="/dmca">
+DMCA Policy
+</a>
+</li>
+
 </ul>
 
 <p className="mt-6 text-gray-400 text-sm">

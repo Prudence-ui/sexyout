@@ -237,6 +237,18 @@ Contact
 </Link>
 </li>
 
+<li>
+<Link href="/2257">
+2257 Compliance
+</Link>
+</li>
+
+<li>
+<Link href="/dmca">
+DMCA Policy
+</Link>
+</li>
+
 </ul>
 
 </footer>
