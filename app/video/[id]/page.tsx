@@ -103,11 +103,6 @@ Votre navigateur ne supporte pas cette vidéo
 
 </div>
 
-<div className="mt-8 mb-8 flex justify-center">
-
-  <ExoBannerBottom />
-
-</div>
 
 
 
@@ -189,6 +184,10 @@ className="w-full h-full object-cover"
 
 ))}
 
+</div>
+
+<div className="mt-8 mb-8 flex justify-center">
+  <ExoBannerBottom />
 </div>
 
 <div className="mt-6">
