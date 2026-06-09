@@ -132,9 +132,6 @@ gap-4
 
 <div className="col-span-2 md:col-span-3 lg:col-span-6 rounded-xl bg-[#1a1a1a] p-6 text-center border border-gray-700">
 
-<p className="text-pink-500 font-bold">
-📢 Publicité sponsorisée
-</p>
 
 </div>
 
