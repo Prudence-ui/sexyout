@@ -92,9 +92,7 @@ Votre navigateur ne supporte pas cette vidéo
 
 </div>
 
-<div className="mt-6">
-  <ExoVideoSlider />
-</div>
+
 
 <div className="mt-4">
 
@@ -191,6 +189,10 @@ className="w-full h-full object-cover"
 
 ))}
 
+</div>
+
+<div className="mt-6">
+  <ExoVideoSlider />
 </div>
 
 <div className="flex justify-between mt-10">
