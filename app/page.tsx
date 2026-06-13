@@ -2,6 +2,7 @@
 
 import ExoNativeWidget from "./components/ExoNativeWidget";
 import ExoBanner from "./components/ExoBanner";
+import ExoVideoSlider from "./components/ExoVideoSlider";
 import { useState } from "react";
 import { videos } from "../data/videos";
 
@@ -304,6 +305,10 @@ className="bg-[#222] px-4 py-3"
 Next
 </button>
 
+</div>
+
+<div className="mt-6">
+  <ExoVideoSlider />
 </div>
 
 <footer className="bg-[#1b1b1b] p-8">

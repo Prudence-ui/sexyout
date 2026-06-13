@@ -1,5 +1,4 @@
 import "./globals.css";
-import ExoInPagePush from "./components/ExoInPagePush";
 
 export const metadata = {
 
@@ -51,7 +50,6 @@ return(
 
 {children}
 
-<ExoInPagePush />
 
 </body> 
 
