@@ -46,12 +46,20 @@ return(
 
 <html lang="fr">
 
+<head>
+
+<meta
+name="referrer"
+content="no-referrer-when-downgrade"
+/>
+
+</head>
+
 <body>
 
 {children}
 
-
-</body> 
+</body>
 
 </html>
 
