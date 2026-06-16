@@ -1,41 +1,56 @@
 "use client";
 
-import { useEffect } from "react";
+import Script from "next/script";
 
 export default function ExoNativeWidget() {
 
-  useEffect(() => {
+return(
 
-    const script1 = document.createElement("script");
+<div className="mt-8 mb-8 flex justify-center">
 
-    script1.src =
-      "https://a.magsrv.com/ad-provider.js";
+{/* ExoClick Native */}
+<script
+async
+src="https://a.magsrv.com/ad-provider.js"
+></script>
 
-    script1.async = true;
+<ins
+className="eas6a97888e20"
+data-zoneid="5945506"
+></ins>
 
-    document.body.appendChild(script1);
+<Script id="exo-native">
+{`
+(AdProvider = window.AdProvider || []).push({"serve": {}});
+`}
+</Script>
 
-    const script2 =
-      document.createElement("script");
+{/* Hilltop fallback */}
+<Script id="hilltop-native">
 
-    script2.innerHTML =
-      '(AdProvider = window.AdProvider || []).push({"serve": {}});';
+{`
+(function(pi){
+var d=document,
+s=d.createElement("script"),
+l=d.scripts[d.scripts.length-1];
 
-    document.body.appendChild(script2);
+s.settings=pi||{};
 
-  }, []);
+s.src="//grounded-opposite.com/b/XLV.sddsG/l/0ZYUWOcP/reTmx9Su/Z/UklLk/P/TlcsxMNaDMI/xDMFDHk/tJNozQEo0/Mqj/EQxlM/wq";
 
-  return (
+s.async=true;
 
-    <div className="flex justify-center my-8">
+s.referrerPolicy="no-referrer-when-downgrade";
 
-      <ins
-        className="eas6a97888e20"
-        data-zoneid="5945506"
-      ></ins>
+l.parentNode.insertBefore(s,l);
 
-    </div>
+})({})
+`}
 
-  );
+</Script>
+
+</div>
+
+)
 
 }
